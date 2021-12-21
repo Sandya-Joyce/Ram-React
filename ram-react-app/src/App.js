@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         
         <p>
-          Click here to navigate to Smiles Central
+          Click below to navigate to Smiles Central
         </p>
         <a
           className="App-link"
