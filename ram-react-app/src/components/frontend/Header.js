@@ -1,14 +1,14 @@
 import React from "react"
 
 import classes from "./header.styling.css";
-import classes from "./layout.styling.css";
+import header_layout from "./layout.styling.css";
 
 
 const Header = () => {
     return (
         <>
             <header
-                className={[classes.header, cssLayout["header-bg-color"]]
+                className={[classes.header, header_layout["header-bg-color"]]
                 }
             >
             <p> Smiles Central</p>

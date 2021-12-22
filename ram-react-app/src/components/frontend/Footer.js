@@ -1,13 +1,13 @@
-﻿import React from "/react";
+﻿import React from "react";
 
 import classes from "./footer.style.css";
-import classes from "./layout.styling.css";
+import layout from "./layout.styling.css";
 
 const Footer = () => {
     return (
         <>
             <footer
-                className={[classes.footer, cssLayout["footer-bg-color"], "fixed-bottom"]}
+                className={[classes.footer, layout["footer-bg-color"], "fixed-bottom"]}
             >
                 <p > Happiest Minds</p>
                 <p > The mindful IT company</p>

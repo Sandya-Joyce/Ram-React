@@ -2,7 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\src"
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\frontend"
   ],
   "PreviewInSolutionExplorer": false
 }
